@@ -27,6 +27,7 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Continent](https://github.com/samayo/country-json/blob/master/src/country-by-continent.json)
 - [Country by Coastline](https://github.com/samayo/country-json/blob/master/src/country-by-coastline.json)
 - [Country by Currency Name](https://github.com/samayo/country-json/blob/master/src/country-by-currency-name.json)
+- [Country by Emoji](https://github.com/samayo/country-json/blob/master/src/country-by-emoji.json)
 - [Country by Religion](https://github.com/samayo/country-json/blob/master/src/country-by-religion.json)
 - [Country by Currency Code](https://github.com/samayo/country-json/blob/master/src/country-by-currency-code.json)
 - [Country by Domain Tld](https://github.com/samayo/country-json/blob/master/src/country-by-domain-tld.json)
